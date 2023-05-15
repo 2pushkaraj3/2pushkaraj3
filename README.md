@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 -->
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
+
+
 ![2pushkaraj3's GitHub stats](https://github-readme-stats.vercel.app/api?username=2pushkaraj3&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2pushkaraj3)](https://github.com/anuraghazra/github-readme-stats)
 
  [![](https://visitcount.itsvg.in/api?id=2pushkaraj3&label=Profile%20Views&color=10&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
+[![2pushkaraj3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2pushkaraj3)](https://github.com/anuraghazra/github-readme-stats)

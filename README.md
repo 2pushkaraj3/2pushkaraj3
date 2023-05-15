@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
+- [![2pushkaraj3's github stats](https://github-readme-stats.vercel.app/api?username=2pushkaraj3&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)

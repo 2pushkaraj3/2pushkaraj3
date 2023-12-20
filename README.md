@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
  [![](https://visitcount.itsvg.in/api?id=2pushkaraj3&label=Profile%20Views&color=10&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
-[![2pushkaraj3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2pushkaraj3)](https://github.com/anuraghazra/github-readme-stats)

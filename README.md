@@ -152,8 +152,8 @@ mindmap
 
 | 🏆 Recognition | 📜 Certifications |
 |---|---|
-| Outstanding Performance Rating: top 17 of 150+ analysts | Google Cloud Career Practitioner |
-| Star POD of the Quarter (Panchayat Vision 2030) | Deep Learning Fundamentals (NVIDIA) |
+| Outstanding Performance Rating | Google Cloud Career Practitioner |
+| Star POD of the Quarter  | Deep Learning Fundamentals (NVIDIA) |
 | 5-time Meesho Panchayat Award, featured in company newsletter | Database Management Essentials (Coursera) |
 | Mentored 4 interns, all 4 converted to full-time | |
 | GDSC Cloud Lead: 2 GCP workshops, 92 participants certified | |

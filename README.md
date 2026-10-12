@@ -1,10 +1,8 @@
 <!-- ===== HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Pushkaraj%20Kolekar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Product%20%26%20Growth%20Analytics%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20AI%20Analytics%20Products&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-</p>
+<img src="./assets/header.svg" width="100%" alt="Pushkaraj Kolekar, analyst-engineer for a 100M+ user marketplace"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=720&lines=Business+Analyst+II+%40+Meesho;Owning+DAU+%26+NMV+diagnostics+for+100M%2B+users;Agentic+RCA+used+by+100%2B+analysts%2C+PMs+%26+GMs;Skilled+Genie+4.1+vs+human+analysts+3.3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=22&duration=3000&pause=800&color=FFC857&center=true&vCenter=true&width=720&lines=Owning+DAU+%26+NMV+diagnostics+for+100M%2B+users;Agentic+RCA+used+by+100%2B+analysts%2C+PMs+%26+GMs;Skilled+Genie+4.1+vs+human+analysts+3.3;1%E2%80%932+day+RCA+cut+to+5%E2%80%9310+minutes" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -13,9 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=2pushkaraj3&label=Profile%20views&color=7c3aed&style=for-the-badge"/>
 </p>
 
----
 
-## 🧠 About Me
+<img src="./assets/about.svg" width="100%" alt="About me"/>
 
 ```yaml
 role:      Business Analyst II @ Meesho (promoted from BA I within first year)
@@ -25,7 +22,7 @@ builds:    agentic RCA · anomaly-to-ticket alerting · certified metric layers
 education: B.Tech CSE · IIIT Vadodara · CGPA 8.16/10
 ```
 
-## 📊 Impact in Numbers
+<img src="./assets/impact.svg" width="100%" alt="Impact in numbers"/>
 
 <table align="center">
   <tr>
@@ -42,9 +39,10 @@ education: B.Tech CSE · IIIT Vadodara · CGPA 8.16/10
   </tr>
 </table>
 
-## 🗺️ Career Timeline
+<img src="./assets/journey.svg" width="100%" alt="The journey"/>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'cScale0':'#FFC857','cScaleLabel0':'#121735','cScale1':'#A99BFF','cScaleLabel1':'#121735','cScale2':'#7FE0C2','cScaleLabel2':'#121735','cScale3':'#F07F3C','cScaleLabel3':'#121735','cScale4':'#9AA6BF','cScaleLabel4':'#121735'}}}%%
 timeline
     2020 : B.Tech CSE begins, IIIT Vadodara
     2023 : Research Intern, IIIT Vadodara
@@ -56,8 +54,6 @@ timeline
     Jan 2026 : CXO Office, Commerce Platform Control Tower
              : Agentic RCA, Metric Sentinel, UG Pulse
 ```
-
-## 💼 Experience
 
 <details open>
 <summary><b>Meesho · Business Analyst II · CXO Office, Commerce Platform Control Tower</b> (Jan 2026 – Present)</summary>
@@ -95,9 +91,10 @@ timeline
 
 </details>
 
-## 🧩 Skills Map
+<img src="./assets/skills.svg" width="100%" alt="Skills map"/>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#121735','primaryTextColor':'#F3EBD3','cScale1':'#A99BFF','cScaleLabel1':'#121735','cScale2':'#7FE0C2','cScaleLabel2':'#121735','cScale3':'#F07F3C','cScaleLabel3':'#121735','cScale4':'#FFC857','cScaleLabel4':'#121735'}}}%%
 mindmap
   root((Pushkaraj))
     Product and Growth
@@ -141,7 +138,7 @@ mindmap
   <img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=for-the-badge"/>
 </p>
 
-## 🛠️ Projects
+<img src="./assets/projects.svg" width="100%" alt="Projects"/>
 
 | | Project | Stack | What it does |
 |:-:|---|---|---|
@@ -149,7 +146,7 @@ mindmap
 | 🧩 | [**Prism**](https://YOUR-PRISM-LINK.vercel.app) | LLM agents · Vercel | Multi-agent planner with 5 specialist agents and a "dissent ledger" |
 | 🏛️ | [**E-Patrika**](https://github.com/2pushkaraj3/citizen-feedback-system.github.io) | React · Firebase · MongoDB | QR citizen-feedback app shipped in **2 days** for 12+ police stations |
 
-## 🏅 Achievements & Certifications
+<img src="./assets/achievements.svg" width="100%" alt="Achievements and certifications"/>
 
 | 🏆 Recognition | 📜 Certifications |
 |---|---|
@@ -159,7 +156,7 @@ mindmap
 | Mentored 4 interns, all 4 converted to full-time | |
 | GDSC Cloud Lead: 2 GCP workshops, 92 participants certified | |
 
-## ⚔️ Competitive Programming
+<img src="./assets/cp.svg" width="100%" alt="Competitive programming"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA_Solved-800%2B-success?style=for-the-badge"/>
@@ -176,26 +173,24 @@ mindmap
 </p>
 -->
 
-## 📈 GitHub Analytics
+<img src="./assets/activity.svg" width="100%" alt="GitHub activity"/>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=2pushkaraj3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=2pushkaraj3&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=2pushkaraj3&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=121735&title_color=FFC857&text_color=F3EBD3&icon_color=7FE0C2&ring_color=A99BFF&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=2pushkaraj3&layout=donut-vertical&langs_count=6&bg_color=121735&title_color=FFC857&text_color=F3EBD3&icon_color=7FE0C2&ring_color=A99BFF&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2pushkaraj3&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=2pushkaraj3&hide_border=true&background=121735&ring=A99BFF&fire=FFC857&currStreakNum=F3EBD3&sideNums=F3EBD3&currStreakLabel=FFC857&sideLabels=A99BFF&dates=9AA6BF&stroke=2A3563" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2pushkaraj3&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Trend" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2pushkaraj3&bg_color=121735&color=A99BFF&line=FFC857&point=F3EBD3&area=true&area_color=7FE0C2&title_color=FFC857&hide_border=true&custom_title=Contribution%20Trend" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2pushkaraj3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=2pushkaraj3&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 <!-- ===== FOOTER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</p>
+<img src="./assets/footer.svg" width="100%" alt="The whole crew of animals on a log. Thanks for visiting."/>

@@ -15,7 +15,7 @@
 
 ### About
 
-Analyst-engineer who turns the metrics of a 100M+ user marketplace into products people actually use. At Meesho I own DAU and NMV diagnostics for the CXO Office and build the tooling behind them. I was promoted from BA I to BA II within my first year.
+Analyst-engineer who turns the metrics of a 100M+ user marketplace into products people actually use. At Meesho I own DAU and NMV diagnostics for the CXO Office and build the tooling behind them.
 
 ### Highlights
 
@@ -31,9 +31,9 @@ Analyst-engineer who turns the metrics of a 100M+ user marketplace into products
 
 | Project | What it is |
 |---|---|
-| **BharatCommerce Intelligence** | Streaming pipeline handling 2M+ events/day. Kafka ingestion, Airflow orchestration and dbt transforms cut end-to-end latency from 6 hours to 8 minutes; results are served via Streamlit. |
+| [**BharatCommerce Intelligence**](https://github.com/2pushkaraj3/bharatcommerce-intelligence) | Streaming pipeline handling 2M+ events/day. Kafka ingestion, Airflow orchestration and dbt transforms cut end-to-end latency from 6 hours to 8 minutes; results are served via Streamlit. |
 | [**Prism**](https://YOUR-PRISM-LINK.vercel.app) | Hackathon build, live on Vercel. A multi-agent LLM planner with five specialist agents, a capability registry, tool-calling with state hand-off, and a "dissent ledger" that surfaces disagreement between agents. |
-| **E-Patrika** | QR citizen-feedback system built for a Gujarat govt. hackathon. A React + Firebase + MongoDB app shipped in 2 days for 12+ police stations. |
+| [**E-Patrika**](https://github.com/2pushkaraj3/citizen-feedback-system.github.io) | QR citizen-feedback system built for a Gujarat govt. hackathon. A React + Firebase + MongoDB app shipped in 2 days for 12+ police stations. |
 
 ### Tech Stack
 
@@ -71,23 +71,31 @@ Analyst-engineer who turns the metrics of a 100M+ user marketplace into products
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2pushkaraj3&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2pushkaraj3&theme=default&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2pushkaraj3&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Trend" alt="Contribution trend" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2pushkaraj3&theme=github" alt="Profile details" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=2pushkaraj3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=2pushkaraj3&theme=tokyonight&hide_border=true" alt="Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2pushkaraj3&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2pushkaraj3&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2pushkaraj3&theme=tokyonight" alt="Profile summary" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2pushkaraj3&theme=github&utcOffset=5.5" alt="Productive time" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2pushkaraj3&theme=github" alt="Repos per language" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2pushkaraj3&theme=tokyonight" alt="Repos per language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2pushkaraj3&theme=tokyonight" alt="Most commit language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2pushkaraj3&theme=tokyonight&utcOffset=5.5" alt="Productive time (IST)" width="32%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2pushkaraj3/2pushkaraj3/output/github-contribution-grid-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/2pushkaraj3/2pushkaraj3/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%"/>
+  </picture>
 </p>

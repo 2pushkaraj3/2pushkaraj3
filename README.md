@@ -44,7 +44,9 @@ education: B.Tech CSE · Indian Institute of Information Technology
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'cScale0':'#FFC857','cScaleLabel0':'#121735','cScale1':'#A99BFF','cScaleLabel1':'#121735','cScale2':'#7FE0C2','cScaleLabel2':'#121735','cScale3':'#F07F3C','cScaleLabel3':'#121735','cScale4':'#9AA6BF','cScaleLabel4':'#121735'}}}%%
 timeline
-    2020 : B.Tech CSE begins, IIIT Vadodara
+    2020 :Jee Advanced Qualified
+         :BITS PILANI CSE QUALIFIED
+         :B.Tech CSE begins, IIIT Vadodara
     2023 : Research Intern, IIIT Vadodara
          : IoT heart-disease prediction, R² 0.97
     Jan 2024 : Data Science and Analytics Intern, PharmEasy

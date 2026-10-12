@@ -15,11 +15,11 @@
 <img src="./assets/about.svg" width="100%" alt="About me"/>
 
 ```yaml
-role:      Business Analyst II @ Meesho (promoted from BA I within first year)
+role:      Business Analyst II @ Meesho 
 team:      CXO Office · Commerce Platform Control Tower
 owns:      DAU & NMV diagnostics for a 100M+ user marketplace
 builds:    agentic RCA · anomaly-to-ticket alerting · certified metric layers
-education: B.Tech CSE · IIIT Vadodara · CGPA 8.16/10
+education: B.Tech CSE · Indian Institute of Information Technology 
 ```
 
 <img src="./assets/impact.svg" width="100%" alt="Impact in numbers"/>

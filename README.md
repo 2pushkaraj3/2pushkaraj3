@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/pushkaraj-kolekar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pushkarajkolekar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=2pushkaraj3&label=Profile%20views&color=7c3aed&style=for-the-badge"/>
 </p>
 
 
@@ -24,20 +23,7 @@ education: B.Tech CSE · Indian Institute of Information Technology Vadodara
 
 <img src="./assets/impact.svg" width="100%" alt="Impact in numbers"/>
 
-<table align="center">
-  <tr>
-    <td align="center"><h2>100+</h2>people run my<br/>agentic RCA</td>
-    <td align="center"><h2>4.1 / 5</h2>blind eval score<br/>vs humans' 3.3</td>
-    <td align="center"><h2>1–2 days → 5 min</h2>manual RCA<br/>turnaround</td>
-    <td align="center"><h2>60+</h2>stakeholders on my<br/>certified metric layer</td>
-  </tr>
-  <tr>
-    <td align="center"><h2>~1.2% NMV</h2>defect classifier<br/>over 12M+ products</td>
-    <td align="center"><h2>+16.2%</h2>orders/visitor from<br/>catalog filtering</td>
-    <td align="center"><h2>~45 hrs/wk</h2>freed via reporting<br/>automation</td>
-    <td align="center"><h2>Top 17 / 150+</h2>analysts, Outstanding<br/>Performance Rating</td>
-  </tr>
-</table>
+<img src="./assets/impact-board.svg" width="100%" alt="Impact in numbers: 100+ RCA users, 60+ stakeholders, 21M+ queries clustered, 12M+ products classified, +16.2% orders/visitor, ~45 hrs/week freed, 190 metric definitions, top 17 of 150+ analysts; blind eval 4.1 vs 3.3 vs 1.8; RCA 1–2 days to 5–10 min"/>
 
 <img src="./assets/journey.svg" width="100%" alt="The journey"/>
 
@@ -153,7 +139,7 @@ mindmap
 | 🏆 Recognition | 📜 Certifications |
 |---|---|
 | Outstanding Performance Rating | Google Cloud Career Practitioner |
-| Star POD of the Quarter  | Deep Learning Fundamentals (NVIDIA) |
+| Star POD of the Quarter | Deep Learning Fundamentals (NVIDIA) |
 | 5-time Meesho Panchayat Award, featured in company newsletter | Database Management Essentials (Coursera) |
 | Mentored 4 interns, all 4 converted to full-time | |
 | GDSC Cloud Lead: 2 GCP workshops, 92 participants certified | |
@@ -187,11 +173,7 @@ mindmap
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2pushkaraj3&bg_color=121735&color=A99BFF&line=FFC857&point=F3EBD3&area=true&area_color=7FE0C2&title_color=FFC857&hide_border=true&custom_title=Contribution%20Trend" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2pushkaraj3&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://raw.githubusercontent.com/2pushkaraj3/2pushkaraj3/output/snake-night.svg" width="100%" alt="A firefly snake eating my contribution graph"/>
 </p>
 
 <!-- ===== FOOTER ===== -->

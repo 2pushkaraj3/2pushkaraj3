@@ -10,14 +10,49 @@
 @keyframes blink{0%,92%,100%{transform:scaleY(0)}95%{transform:scaleY(1)}}
 .drift{animation:drift 9s ease-in-out infinite}
 @keyframes drift{0%,100%{transform:translate(0,0)}25%{transform:translate(14px,-10px)}50%{transform:translate(4px,-22px)}75%{transform:translate(-12px,-8px)}}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
-</style>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1A2349"/><stop offset="1" stop-color="#121735"/></linearGradient></defs>
+.bob{animation:bob 2.8s ease-in-out infinite}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+.speed{animation:speed 1.1s linear infinite}
+@keyframes speed{0%{transform:translateX(8px);opacity:0}30%{opacity:1}100%{transform:translateX(-12px);opacity:0}}
+.swing{transform-box:fill-box;transform-origin:50% 0;animation:swing 3.4s ease-in-out infinite}
+@keyframes swing{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(10deg)}}
+.twitch{transform-box:fill-box;transform-origin:50% 100%;animation:twitch 4.2s infinite}
+@keyframes twitch{0%,86%,100%{transform:rotate(0)}90%{transform:rotate(-16deg)}94%{transform:rotate(7deg)}}
+.wink{transform-box:fill-box;transform-origin:center top;animation:blink 4.6s infinite 1.3s}
+.spark{transform-box:fill-box;transform-origin:center;animation:spark 2.2s ease-in-out infinite}
+@keyframes spark{0%,100%{transform:scale(.25);opacity:.2}50%{transform:scale(1);opacity:1}}
+.flap{transform-box:fill-box;transform-origin:50% 100%;animation:flap .16s ease-in-out infinite alternate}
+@keyframes flap{from{transform:scaleY(1)}to{transform:scaleY(.5)}}
+.tilt{transform-box:fill-box;transform-origin:50% 100%;animation:tilt 7s ease-in-out infinite}
+@keyframes tilt{0%,70%,100%{transform:rotate(0)}76%{transform:rotate(-8deg)}84%{transform:rotate(-8deg)}90%{transform:rotate(3deg)}}
+.halo{transform-box:fill-box;transform-origin:center;animation:halo 5s ease-in-out infinite}
+@keyframes halo{0%,100%{transform:scale(1);opacity:.75}50%{transform:scale(1.08);opacity:1}}
+.shoot{animation:shoot var(--d,11s) linear infinite;animation-delay:var(--w,0s);opacity:0}
+@keyframes shoot{0%{transform:translate(0,0);opacity:0}2%{opacity:1}9%{transform:translate(-260px,120px);opacity:0}100%{transform:translate(-260px,120px);opacity:0}}
+.rise{animation:rise .9s cubic-bezier(.2,.7,.2,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+.draw{animation:draw 1.1s ease-out .35s both}
+@keyframes draw{from{stroke-dashoffset:var(--len)}to{stroke-dashoffset:0}}
+.hop{animation:hop 5s ease-in-out infinite}
+@keyframes hop{0%,16%,100%{transform:translateY(0)}8%{transform:translateY(-12px)}}
+.pop{animation:pop .55s cubic-bezier(.2,.7,.2,1) both}
+@keyframes pop{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.fr{opacity:0;animation:fr .11s linear 1}
+@keyframes fr{0%,100%{opacity:1}}
+.fin{animation:fin .01s linear both}
+@keyframes fin{from{opacity:0}to{opacity:1}}
+.grow{transform-box:fill-box;transform-origin:0 50%;animation:grow 1.1s cubic-bezier(.2,.7,.2,1) both}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.fade{animation:fin .5s ease-out both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.shoot{opacity:0}}
+</style><linearGradient id="tail" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#F3EBD3" stop-opacity="0"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1A2349"/><stop offset="1" stop-color="#121735"/></linearGradient>
+<clipPath id="bc"><rect x="1" y="1" width="998" height="118" rx="20"/></clipPath></defs>
 <rect x="1" y="1" width="998" height="118" rx="20" fill="url(#bg)" stroke="#2A3563" stroke-width="1.5"/>
-<circle class="tw" style="animation-delay:1.94s" cx="782" cy="82" r="0.6" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.80s" cx="721" cy="49" r="0.8" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.26s" cx="758" cy="38" r="1.2" fill="#F3EBD3"/><circle class="tw" style="animation-delay:3.36s" cx="720" cy="70" r="0.7" fill="#F3EBD3"/><circle class="tw" style="animation-delay:3.61s" cx="970" cy="67" r="0.8" fill="#F3EBD3"/><circle class="tw" style="animation-delay:4.00s" cx="820" cy="41" r="1.0" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.10s" cx="817" cy="44" r="0.6" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.14s" cx="747" cy="77" r="1.3" fill="#F3EBD3"/><circle class="tw" style="animation-delay:2.04s" cx="787" cy="31" r="0.7" fill="#F3EBD3"/><circle class="tw" style="animation-delay:3.54s" cx="821" cy="86" r="1.2" fill="#F3EBD3"/>
+<g clip-path="url(#bc)"><circle class="tw" style="animation-delay:2.62s" cx="984" cy="31" r="0.8" fill="#F3EBD3"/><circle class="tw" style="animation-delay:0.67s" cx="870" cy="42" r="0.7" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.99s" cx="776" cy="82" r="0.8" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.80s" cx="965" cy="90" r="0.7" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.37s" cx="772" cy="17" r="0.7" fill="#F3EBD3"/><circle class="tw" style="animation-delay:2.28s" cx="785" cy="31" r="1.2" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.66s" cx="922" cy="43" r="1.0" fill="#F3EBD3"/><circle class="tw" style="animation-delay:0.25s" cx="822" cy="37" r="0.8" fill="#F3EBD3"/><circle class="tw" style="animation-delay:2.01s" cx="981" cy="20" r="1.0" fill="#F3EBD3"/><circle class="tw" style="animation-delay:1.08s" cx="953" cy="27" r="0.8" fill="#F3EBD3"/><g class="shoot" style="--d:10.998785683728446s;--w:3.6751503541396566s"><line x1="980" y1="18" x2="1034" y2="-7" stroke="url(#tail)" stroke-width="2.2" stroke-linecap="round"/><circle cx="980" cy="18" r="2.2" fill="#fff"/></g></g>
 <path d="M640 119 C 720 96 820 104 999 88 L999 99 Q999 119 979 119 Z" fill="#1C2F45" opacity=".7"/>
 <circle cx="74" cy="60" r="47" fill="#1C2F45" stroke="#2E5A4F" stroke-width="3"/>
-<g transform="translate(74 62) scale(.74)">
+<g transform="translate(74 62) scale(.74)"><g class="bob">
 <circle cx="-26" cy="-24" r="9" fill="#7A5230"/><circle cx="26" cy="-24" r="9" fill="#7A5230"/>
 <ellipse cx="0" cy="2" rx="34" ry="33" fill="#9C6B43"/>
 <ellipse cx="0" cy="16" rx="20" ry="14" fill="#C49A6C"/>
@@ -26,11 +61,13 @@
 <path d="M-11 14 L-27 10 M-11 17 L-27 18 M11 14 L27 10 M11 17 L27 18" stroke="#5A3B22" stroke-width="1.3" stroke-linecap="round"/>
 <circle cx="-13" cy="-5" r="3.6" fill="#121735"/><circle cx="13" cy="-5" r="3.6" fill="#121735"/>
 <circle cx="-11.8" cy="-6.4" r="1.2" fill="#fff"/><circle cx="14.2" cy="-6.4" r="1.2" fill="#fff"/>
+<ellipse class="wink" cx="13" cy="-9" rx="5" ry="5" fill="#9C6B43"/>
 <path d="M-25 -20 C -25 -44 25 -44 25 -20 Z" fill="#FFC857"/>
 <rect x="-31" y="-23" width="62" height="7" rx="3.5" fill="#F5B638"/>
 <rect x="-3" y="-41" width="6" height="19" rx="2" fill="#F5B638"/>
-</g>
-<text x="142" y="58" class="d" font-size="34" fill="#F3EBD3">Projects</text>
-<text x="144" y="88" class="b" font-size="17" fill="#A99BFF">Things I have built outside the day job</text>
-<g class="drift" style="animation-delay:0s;animation-duration:9.5s"><g class="glow" style="animation-delay:0s"><circle cx="930" cy="46" r="8.2" fill="#FFC857" opacity=".18"/><circle cx="930" cy="46" r="2.4" fill="#FFC857"/></g></g>
+</g></g>
+<text x="142" y="56" class="d rise" font-size="34" fill="#F3EBD3">Projects</text>
+<path class="draw" style="--len:146" d="M144 70 h142" stroke="#FFC857" stroke-width="3" stroke-linecap="round" stroke-dasharray="146" opacity=".9"/>
+<text x="144" y="94" class="b rise" style="animation-delay:.25s" font-size="16" fill="#A99BFF">Things I have built outside the day job</text>
+<g class="drift" style="animation-delay:0s;animation-duration:10.8s"><g class="glow" style="animation-delay:0s"><circle cx="930" cy="46" r="8.2" fill="#FFC857" opacity=".18"/><circle cx="930" cy="46" r="2.4" fill="#FFC857"/></g></g>
 </svg>
